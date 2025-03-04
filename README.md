@@ -22,9 +22,9 @@ This project analyzes historical trade data from Binance accounts over 90 days. 
 
 ## Usage
 1. Place your trade data CSV file (`trade_data.csv`) in the project directory.
-2. Run the analysis script:
+2. Run the analysis script/jupyter file:
    ```sh
-   python trade_analysis.py
+   python task.ipynb
    ```
 3. The script will:
    - Clean and process the data
